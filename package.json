@@ -20,6 +20,7 @@
     "@modules/maps": "file:./modules/maps/",
     "@modules/mixpanel-analytics": "file:./modules/mixpanel-analytics/",
     "@modules/onboarding": "file:./modules/onboarding/",
+    "@modules/privacy-policy": "file:./modules/privacy-policy",
     "@modules/privacy-policy-webview": "file:./modules/privacy-policy-webview/",
     "@modules/qr-code": "file:./modules/qr-code/",
     "@modules/social-login": "file:./modules/social-login/",
