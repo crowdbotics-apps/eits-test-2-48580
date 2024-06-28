@@ -78,6 +78,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [django-docusign](backend/modules)
 - [django-ocr](backend/modules)
 - [privacy-policy]()
+- [terms-and-conditions]()
 
 # Getting started: Frontend
 
